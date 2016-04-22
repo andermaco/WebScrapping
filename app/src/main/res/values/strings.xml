@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scrapping</string>
+
+    <!-- CardView -->
+    <string name="iconDescription">Link icon</string>
+
+    <!-- Url target to be scrapped -->
+    <string name="url">http://www.yahoo.com</string>
+</resources>
